@@ -6,6 +6,7 @@ Script Purpose:
   This Script creates tables in Bronze Schema, dropping table if they already exist.
 Caution: If the tables are populated, running this script will empty them and create Schema as follows...
 ============================================================
+*/
 
 
 
